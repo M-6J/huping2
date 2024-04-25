@@ -2,7 +2,7 @@
 
 YELP data
 
-https://www.yelp.com/dataset和 Kaggle https://www.kaggle.com/datasets/yelp-dataset/yelp
+https://www.yelp.com/dataset  和 Kaggle https://www.kaggle.com/datasets/yelp-dataset/yelp
 dataset 
 
 
